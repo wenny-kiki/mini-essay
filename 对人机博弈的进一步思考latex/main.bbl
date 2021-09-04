@@ -1,0 +1,49 @@
+\begin{thebibliography}{1}
+
+\bibitem{cc}
+Michael Bowling, Neil Burch, Michael Johanson, and Oskari Tammelin.
+\newblock Heads-up limit hold’em poker is solved.
+\newblock {\em Science}, 347(6218):145--149, 2015.
+
+\bibitem{ee}
+Noam Brown and Tuomas Sandholm.
+\newblock Superhuman ai for heads-up no-limit poker: Libratus beats top
+  professionals.
+\newblock {\em Science}, 359(6374):418--424, 2018.
+
+\bibitem{ff}
+Noam Brown and Tuomas Sandholm.
+\newblock Superhuman ai for multiplayer poker.
+\newblock {\em Science}, 365(6456):885--890, 2019.
+
+\bibitem{aa}
+Douglas~E Comer, David Gries, Michael~C Mulder, Allen Tucker, A~Joe Turner, and
+  Paul~R Young.
+\newblock Computing as a discipline.
+\newblock {\em Communications of the ACM}, 32(1):9--23, 1989.
+
+\bibitem{dd}
+Matej Morav{\v{c}}{\'\i}k, Martin Schmid, Neil Burch, Viliam Lis{\`y}, Dustin
+  Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael
+  Bowling.
+\newblock Deepstack: Expert-level artificial intelligence in heads-up no-limit
+  poker.
+\newblock {\em Science}, 356(6337):508--513, 2017.
+
+\bibitem{bb}
+Peter Wegner.
+\newblock Research paradigms in computer science.
+\newblock In {\em Proceedings of the 2nd international conference on Software
+  engineering}, pages 322--330. Citeseer, 1976.
+
+\bibitem{gg}
+Martin~A Zinkevich, Michael Bowling, and Michael Wunder.
+\newblock The lemonade stand game competition: solving unsolvable games.
+\newblock {\em ACM SIGecom Exchanges}, 10(1):35--38, 2011.
+
+\bibitem{hh}
+刘伟，张玉坤，曹国熙.
+\newblock 有关军事人机混合智能的几点思考.
+\newblock {\em 火力与指挥控制}, 43(10):1--7, 2018.
+
+\end{thebibliography}
